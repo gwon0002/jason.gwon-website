@@ -217,8 +217,8 @@ section#resume {
 }
 
 .resume-view {
-    font-size: 20px; /* Adjust the font size based on your preference */
-    color: gray; /* Set the initial font color */
+    font-size: 22px; /* Adjust the font size based on your preference */
+    color: rgb(100, 99, 99); /* Set the initial font color */
     text-decoration: none; /* Remove underline */
     transition: color 0.3s ease-in-out; /* Add transition for font color */
 }
