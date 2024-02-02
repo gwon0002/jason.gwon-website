@@ -3,14 +3,14 @@
 Welcome to my personal website! Here, you can learn more about me, explore my professional experience, check out the projects I've worked on, view my resume, and get in touch with me. Feel free to browse around and get to know me better.
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Intro](#intro)
 - [About Me](#about-me)
 - [Experience](#experience)
 - [Projects](#projects)
 - [Resume](#resume)
 - [Contact Me](#contact-me)
 
-## Introduction
+## Intro
 
 Howdy! Welcome to my website! This is where you can find some of my experience,
 projects, the skills I've developed along the way, and get a chance to know me better.
