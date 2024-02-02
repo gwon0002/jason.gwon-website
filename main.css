@@ -62,10 +62,6 @@ section#intro {
     background-color: lightgray;
 }
 
-#experience {
-    background-color: white;
-}
-
 #resume {
     background-color: lightgray;
 }
@@ -211,36 +207,6 @@ section#experience {
 
 .resume-view:hover {
     color: white; /* Set the font color on hover */
-}
-
-#experience {
-    background-color: white; /* Add a background color for better visual separation */
-    padding: 80px 20px;
-    font-size: 12px;
-    text-align: left;
-    display: block;
-}
-
-.experience-item {
-    margin-bottom: 0px; /* Adjust spacing between experience items */
-}
-
-.experience-item h3 {
-    color: #333; /* Set a color for the job title */
-    margin-bottom: 0px;
-    margin-top: 0px;
-}
-
-.experience-item p {
-    font-style: italic;
-    margin-top: 0px;
-    color: #666; /* Set a color for the location and date */
-}
-
-.experience-item ul {
-    list-style-type: disc; /* Use bullet points for job responsibilities */
-    padding-left: 20px;
-    color: #444; /* Set a color for job responsibilities */
 }
 
 #project {
