@@ -139,8 +139,8 @@ section#intro {
 #about p {
     text-align: justify;
     margin-top: 5px;
-    margin-bottom: 0px;
-    font-size: 18px;
+    margin-bottom: 20px;
+    font-size: 20px;
 }
 
 #project p {
