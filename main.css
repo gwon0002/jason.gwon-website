@@ -5,6 +5,7 @@ body {
     font-family: 'Tahoma', sans-serif;
     background-color: lightgray;
 }
+
 header {
     background-color: #333;
     color: #fff;
@@ -13,18 +14,22 @@ header {
     width: 100%;
     z-index: 1000;
 }
+
 nav {
     text-align: center;
 }
+
 nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
+
 nav li {
     display: inline;
     margin-right: 20px;
 }
+
 nav a {
     text-decoration: none;
     color: #fff;
@@ -32,9 +37,11 @@ nav a {
     font-size: 18px;
     transition: color 0.3s ease-in-out;
 }
+
 nav a:hover {
     color: #ff9900;
 }
+
 section {
     height: 100vh;
     display: flex;
@@ -50,18 +57,23 @@ section#intro {
     align-items: center;
     margin: 0 auto; /* Center the section horizontally */
 }
+
 #about {
     background-color: lightgray;
 }
+
 #experience {
     background-color: white;
 }
+
 #resume {
     background-color: lightgray;
 }
+
 #contact {
     background-color: white;
 }
+
 section#about {
     padding: 80px 20px;
     text-align: left;
@@ -71,11 +83,13 @@ section#about {
     max-width: 800px; /* Adjust the max-width based on your preference */
     margin: 0 auto; /* Center the section horizontally */
 }
+
 h1 {
     color: rgb(80, 78, 78); /* Corrected the color code */
     font-size: 36px;
     margin-bottom: 20px;
 }
+
 #about {
     padding: 80px 20px;
     text-align: left;
@@ -86,11 +100,13 @@ h1 {
     width: 100%; /* Set width to 100% */
     box-sizing: border-box; /* Include padding and border in the total width */
 }
+
 #about .profile-photo {
     max-width: 100%;
     border-radius: 10%;
     margin-bottom: 0px;
 }
+
 section#intro {
     background-color: white;
     padding: 80px 20px;
@@ -102,35 +118,42 @@ section#intro {
     width: 100%; /* Set width to 100% */
     box-sizing: border-box; /* Include padding and border in the total width */
 }
+
 #intro h1 {
     color: rgb(80, 78, 78);
     font-size: 40px;
     margin-bottom: 00px;
 }
+
 #intro p {
     text-align: justify;
     margin-top: 5px;
     margin-bottom: 20px;
     font-size: 20px;
 }
+
 #about h1 {
     margin-bottom: 0px; /* Adjust the value to reduce or increase space */
 }
+
 #about p {
     text-align: justify;
     margin-top: 5px;
     margin-bottom: 0px;
     font-size: 20px;
 }
+
 #contact p {
     text-align: justify;
     margin-top: 5px;
     margin-bottom: 0px;
     font-size: 20px;
 }
+
 p {
     color: rgb(80, 78, 78); /* Corrected the color code */
 }
+
 .social-button {
     border: none;
     background: none;
@@ -139,73 +162,87 @@ p {
     margin: 10px;
     font-size: 38px; /* Adjust the font-size based on your preference */
 }
+
 .socials {
     display: flex;
     gap: 10px;
 }
+
 #contact h1 {
     text-align: center;
     margin-bottom: 20px;
     flex-direction: column; /* Stack items vertically */
     align-items: center; /* Center items horizontally */
 }
+
 .contact-info {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
 }
+
 section#contact {
     flex-direction: column;
 }
+
 section#resume {
     flex-direction: column;
 }
+
 section#experience {
     flex-direction: column;
 }
+
 .contact-info a {
     font-size: 20px; /* Adjust the font size based on your preference */
 }
+
 .social-button a {
     font-size: 38px; /* Adjust the font size based on your preference */
 }
+
 .resume-view {
     font-size: 24px; /* Adjust the font size based on your preference */
     color: navy; /* Set the initial font color */
     text-decoration: none; /* Remove underline */
     transition: color 0.3s ease-in-out; /* Add transition for font color */
 }
+
 .resume-view:hover {
     color: white; /* Set the font color on hover */
 }
+
 #experience {
     background-color: white; /* Add a background color for better visual separation */
     padding: 80px 20px;
     font-size: 12px;
     text-align: left;
-    text-align: center;
     display: block;
 }
 
 .experience-item {
     margin-bottom: 0px; /* Adjust spacing between experience items */
 }
+
 .experience-item h3 {
     color: #333; /* Set a color for the job title */
     margin-bottom: 0px;
     margin-top: 0px;
 }
+
 .experience-item p {
     font-style: italic;
     margin-top: 0px;
     color: #666; /* Set a color for the location and date */
 }
+
 .experience-item ul {
     list-style-type: disc; /* Use bullet points for job responsibilities */
     padding-left: 20px;
     color: #444; /* Set a color for job responsibilities */
 }
+
 #project {
     background-color: rgb(234, 231, 231); /* Add a background color for better visual separation */
     padding: 80px 20px;
@@ -213,29 +250,35 @@ section#experience {
     text-align: left;
     display: block;
 }
+
 .project-item {
     margin-bottom: 0px; /* Adjust spacing between experience items */
 }
+
 .project-item h3 {
     color: #333; /* Set a color for the job title */
     margin-bottom: 0px;
     margin-top: 0px;
 }
+
 .project-item p {
     font-style: italic;
     margin-top: 0px;
     color: #666; /* Set a color for the location and date */
 }
+
 .project-item ul {
     list-style-type: disc; /* Use bullet points for job responsibilities */
     padding-left: 20px;
     color: #444; /* Set a color for job responsibilities */
 }
+
 .contact-info a {
     color: navy; /* Set the initial text color */
     text-decoration: none; /* Remove underline */
     transition: color 0.3s ease; /* Set the transition effect for the color change */
 }
+
 .contact-info a:hover,
 .contact-info a:focus {
     color: gray;
