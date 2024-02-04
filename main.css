@@ -136,6 +136,12 @@ section#intro {
     margin-bottom: 0px; /* Adjust the value to reduce or increase space */
 }
 
+#about h2 {
+    color: rgb(80, 78, 78);
+    font-size: 18px;
+    margin-bottom: 00px;
+}
+
 #about p {
     text-align: justify;
     margin-top: 5px;
