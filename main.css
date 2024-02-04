@@ -233,7 +233,7 @@ section#resume {
 }
 
 .contact-info a {
-    color: #ff9900; /* Set the initial text color */
+    color: navy; /* Set the initial text color */
     text-decoration: none; /* Remove underline */
     transition: color 0.3s ease; /* Set the transition effect for the color change */
 }
