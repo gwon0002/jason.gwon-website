@@ -1,6 +1,6 @@
 # Jason Gwon's Personal Website
 
-Welcome to my personal website! Here, you can learn more about me, explore my professional experience, check out the projects I've worked on, view my resume, and get in touch with me. Feel free to browse around and get to know me better.
+Welcome to my personal website!
 
 ## Table of Contents
 - [Intro](#intro)
@@ -12,12 +12,11 @@ Welcome to my personal website! Here, you can learn more about me, explore my pr
 
 ## Intro
 
-Howdy! Welcome to my website! This is where you can find some of my experience,
-projects, the skills I've developed along the way, and get a chance to know me better.
+Content
 
 ## About Me
 
-I am an undergraduate computer science student at the University of Minnesota-Twin Cities, where I'm pursuing a dual concentration in software engineering and full-stack development.
+Content
 
 ## Experience
 
