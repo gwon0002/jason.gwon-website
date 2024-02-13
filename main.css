@@ -247,9 +247,14 @@ section#resume {
 footer {
     position: relative;
     margin-top: auto;
-    margin-left: 10px;
-    background-color: white;
+    background-color: #f8f8f8;
     padding: 10px 0;
     text-align: center;
     width: 100%;
 }
+
+footer p {
+    position: absolute;
+    right: 5px; /* Adjust this value to move the copyright notice to the desired position */
+}
+
