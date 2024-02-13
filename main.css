@@ -247,7 +247,8 @@ section#resume {
 footer {
     position: relative;
     margin-top: auto;
-    background-color: #f8f8f8;
+    margin-left: 10px;
+    background-color: white;
     padding: 10px 0;
     text-align: center;
     width: 100%;
