@@ -252,3 +252,9 @@ footer {
     text-align: center;
     width: 100%;
 }
+
+footer p {
+    position: absolute;
+    right: 10px; /* Adjust this value to move the copyright notice to the desired position */
+}
+
