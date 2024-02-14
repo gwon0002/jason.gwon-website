@@ -72,7 +72,7 @@ section#intro {
 
 #contact {
     background-color: white;
-    position: relative; /* Ensure the section is positioned relatively */
+    position: relative;
 }
 
 .contact-info {
@@ -83,9 +83,8 @@ section#intro {
 .copyright {
     position: absolute; /* Position the text absolutely */
     bottom: 10px; /* Adjust this value to set the distance from the bottom */
-    left: 0; /* Position the text at the left edge of its container */
-    right: 0; /* Position the text at the right edge of its container */
-    text-align: center; /* Center the text horizontally */
+    left: 50%; /* Position the text horizontally centered */
+    transform: translateX(-50%); /* Center the text horizontally */
     font-size: 14px; /* Adjust the font size as needed */
     color: #555; /* Adjust the color of the text */
 }
