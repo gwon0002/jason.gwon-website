@@ -72,6 +72,11 @@ section#intro {
 
 #contact {
     background-color: white;
+    position: relative; /* Ensure the section is positioned relatively */
+}
+
+.contact-info {
+    margin-bottom: 40px; /* Add some space between the contact info and the copyright text */
 }
 
 /* Style for the copyright text */
