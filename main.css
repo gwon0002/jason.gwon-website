@@ -206,6 +206,17 @@ section#project {
     text-align: center;
 }
 
+/* Style for the copyright text */
+.copyright {
+    position: absolute;
+    bottom: 0; /* Position the text at the bottom */
+    left: 0; /* Align the text to the left */
+    width: 100%; /* Make the text span the entire width of the contact section */
+    text-align: center; /* Center the text horizontally */
+    font-size: 14px;
+    color: #555;
+}
+
 section#contact {
     flex-direction: column;
 }
