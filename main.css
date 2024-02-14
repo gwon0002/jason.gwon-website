@@ -207,7 +207,6 @@ section#project {
 .copyright {
     position: absolute; /* Position the text absolutely */
     bottom: 10px; /* Adjust this value to set the distance from the bottom */
-    left: 50%; /* Position the text horizontally centered */
     transform: translateX(-50%); /* Center the text horizontally */
     font-size: 14px; /* Adjust the font size as needed */
     color: #555; /* Adjust the color of the text */
