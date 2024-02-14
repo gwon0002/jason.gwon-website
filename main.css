@@ -72,6 +72,18 @@ section#intro {
 
 #contact {
     background-color: white;
+    position: relative;
+    padding-bottom: 30px; /* Add padding to the bottom of the contact section */
+}
+
+/* Style for the copyright text */
+.copyright {
+    position: absolute;
+    bottom: 5px; /* Adjust this value to position the text slightly above the bottom edge */
+    left: 50%; /* Position the text horizontally centered */
+    transform: translateX(-50%); /* Center the text horizontally */
+    font-size: 14px;
+    color: #555;
 }
 
 section#about {
