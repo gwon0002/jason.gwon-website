@@ -200,16 +200,15 @@ section#project {
 }
 
 .contact-info {
-    margin-bottom: 40px; /* Add some space between the contact info and the copyright text */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
-/* Style for the copyright text */
 .copyright {
     position: absolute; /* Position the text absolutely */
-    bottom: 10px; /* Adjust this value to set the distance from the bottom */
-    transform: translateX(-50%); /* Center the text horizontally */
-    font-size: 14px; /* Adjust the font size as needed */
-    color: #555; /* Adjust the color of the text */
+    bottom: 10px;
 }
 
 section#contact {
