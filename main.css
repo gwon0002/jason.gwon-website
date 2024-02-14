@@ -207,7 +207,6 @@ section#project {
 }
 
 .copyright {
-    position: absolute; /* Position the text absolutely */
     bottom: 10px;
 }
 
