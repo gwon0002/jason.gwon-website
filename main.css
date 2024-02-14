@@ -74,6 +74,18 @@ section#intro {
     background-color: white;
 }
 
+/* Style for the copyright text */
+.copyright {
+    position: absolute; /* Position the text absolutely */
+    bottom: 10px; /* Adjust this value to set the distance from the bottom */
+    left: 0; /* Position the text at the left edge of its container */
+    right: 0; /* Position the text at the right edge of its container */
+    text-align: center; /* Center the text horizontally */
+    font-size: 14px; /* Adjust the font size as needed */
+    color: #555; /* Adjust the color of the text */
+}
+
+
 section#about {
     padding: 80px 20px;
     text-align: left;
