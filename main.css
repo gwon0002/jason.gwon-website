@@ -206,10 +206,6 @@ section#project {
     text-align: center;
 }
 
-.copyright {
-    bottom: 10px;
-}
-
 section#contact {
     flex-direction: column;
 }
