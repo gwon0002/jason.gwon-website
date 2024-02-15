@@ -145,7 +145,7 @@ section#intro {
 }
 
 #about h1 {
-    margin-bottom: 20px; /* Adjust the value to reduce or increase space */
+    margin-bottom: 0px; /* Adjust the value to reduce or increase space */
 }
 
 #about h2 {
