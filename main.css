@@ -134,7 +134,7 @@ section#intro {
 #intro h1 {
     color: rgb(80, 78, 78);
     font-size: 40px;
-    margin-bottom: 00px;
+    margin-bottom: 20px;
 }
 
 #intro p {
@@ -145,7 +145,7 @@ section#intro {
 }
 
 #about h1 {
-    margin-bottom: 0px; /* Adjust the value to reduce or increase space */
+    margin-bottom: 20px; /* Adjust the value to reduce or increase space */
 }
 
 #about h2 {
