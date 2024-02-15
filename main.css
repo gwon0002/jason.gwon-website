@@ -163,7 +163,7 @@ section#intro {
 
 #project p {
     text-align: justify;
-    margin-top: 5px;
+    margin-top: 0px;
     margin-bottom: 0px;
     font-size: 20px;
 }
@@ -195,7 +195,7 @@ p {
 
 #project h1 {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     flex-direction: column; /* Stack items vertically */
     align-items: center; /* Center items horizontally */
 }
@@ -216,7 +216,7 @@ section#project {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 00px;
 }
 
 section#contact {
