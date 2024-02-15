@@ -75,10 +75,6 @@ section#intro {
     position: relative;
 }
 
-.contact-info {
-    margin-bottom: 40px; /* Add some space between the contact info and the copyright text */
-}
-
 /* Style for the copyright text */
 .copyright {
     position: absolute; /* Position the text absolutely */
