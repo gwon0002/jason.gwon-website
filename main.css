@@ -146,6 +146,7 @@ section#intro {
 
 #about h1 {
     margin-bottom: 0px; /* Adjust the value to reduce or increase space */
+    padding-bottom: 0%;
 }
 
 #about h2 {
