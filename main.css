@@ -145,9 +145,14 @@ section#intro {
 }
 
 #about h1 {
-    margin-bottom: 0px; /* Adjust the value to reduce or increase space */
-    padding-bottom: 0%;
+    margin-bottom: 5px; /* Reduce the space below the heading */
+    padding-bottom: 0; /* Ensure there's no padding below the heading */
 }
+
+#about p:first-of-type {
+    margin-top: 5px; /* Reduce the space above the first paragraph */
+}
+
 
 #about h2 {
     color: rgb(80, 78, 78);
