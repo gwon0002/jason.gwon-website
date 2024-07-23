@@ -149,11 +149,6 @@ section#intro {
     padding-bottom: 0; /* Ensure there's no padding below the heading */
 }
 
-#about p:first-of-type {
-    margin-top: 5px; /* Reduce the space above the first paragraph */
-}
-
-
 #about h2 {
     color: rgb(80, 78, 78);
     font-size: 22px;
